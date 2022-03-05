@@ -1,23 +1,6 @@
 ### Hi there 👋
 
-<!--
-**alvbencor/alvbencor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Editorial, media and textile graphic designer here getting involved in coding and web development stuff. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#Álvaro Benito
-
-Graphic designer here!!!!
-
-- 🌱 I’m currently learning web development!!!
-- - 📫 hola@alvarobenito.es
+I'd love to hear from you, just drop a line! 
+- 📫 hola@alvarobenito.es
